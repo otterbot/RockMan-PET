@@ -5,7 +5,7 @@ I'm a MegaMan Battle Network nerd, so I did something with that.
 This repository contains a vanilla PET overlay, a MegaMan "edition" PET overlay, and for those who like the Gameboy Advance SP and/or Gameboy micro overlays, there's a little somethin' special for you too.
 
 # PET Overlays
-![alt_text]()
+![alt_text](https://github.com/otterbot/RockMan-PET/blob/main/Sample/Sample.gif?raw=true)
 
 # File Placement
 
