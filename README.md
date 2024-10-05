@@ -35,7 +35,7 @@ Crop Overscan: **ON**
 # Gameboy Advance SP/Gameboy micro Usage
 While playing a game, open the quick menu and go to `On-Screen Overlay > Overlay Preset`.
 
-Select **Parent Directory** until you get to the directory that contains the folder named **OtterBot**. Then go to `OtterBot > gba > PET` or `OtterBot > micro > PET` and pick the overlay you'd prefer.
+Select **Parent Directory** until you get to the directory that contains the folder named **OtterBot**. Then go to `OtterBot > gbasp > PET` or `OtterBot > micro > PET` and pick the overlay you'd prefer.
 
 Go back to the Quick Menu and then go to **Overrides**.
 
